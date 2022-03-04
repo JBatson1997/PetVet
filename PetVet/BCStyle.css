@@ -1,0 +1,71 @@
+H1 {
+	color : #693201;
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 24px;
+	font-weight : bold;
+	text-decoration : none;
+	text-align : center;
+}
+H2 {
+	color : #693201;
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold;
+	text-decoration : none;
+	text-align : center;
+}
+.text {
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 14px;
+	font-weight : none;
+	color:#f693201;
+}
+.textsmall {
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 10px;
+	font-weight : none;
+	color:#693201;
+}
+.footer {
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : none;
+	color:#693201;
+}
+A:HOVER {
+	background : none;
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 14px;
+	font-weight : none;
+	text-decoration:underline;
+	color: #693201;
+}
+A:FOCUS, A:ACTIVE, A, A:VISITED, A:LINK {
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : none;
+	color: #FA7B0A;
+	text-decoration:underline;
+}
+.fh1{
+	background : None;
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold;
+	text-decoration : underline;
+	line-height : normal;
+}
+.colortext {
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 13px;
+	font-weight : bold;
+	color:blue;
+	
+}
+.scroll{
+  text-align : left;
+  padding : 5px;
+  width : 100%;
+  height : auto;
+  overflow: auto;
+}
